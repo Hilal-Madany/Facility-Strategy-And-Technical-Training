@@ -38,7 +38,7 @@ Based in Fatehpur, India, I bridge the gap between heavy mechanical engineering 
 *Engineering for a better society. #NoToRacism*
 
 Through the **[M.M.F. Trust](https://www.linkedin.com/company/m-m-f-trust/)**, we empower the BPL (Below Poverty Line) community:
-* **Vocational Training:** Upskilling underprivileged youth in Mechanical/Electrical trades.
+* **Vocational Training:** Upskilling underprivileged youth in MEP trades.
 * **Career Blueprints:** A "Fatehpur-to-Gulf" roadmap for junior engineers to achieve global roles.
 
 ---
@@ -47,7 +47,7 @@ Through the **[M.M.F. Trust](https://www.linkedin.com/company/m-m-f-trust/)**, w
 
 | Folder | Contents | Strategic Value |
 | :--- | :--- | :--- |
-| [📁 Mechanical-Core-Vault](./07-Mechanical-Core-Vault) | **Technical Bible: Lube, Filtration, Fab, Combustion** | Core Engineering Depth |
+| [📁 Mechanical-Core-Vault](./Mechanical-Core-Vault) | **Technical Bible: Lube, Filtration, Fab, Combustion** | Core Engineering Depth |
 | [📁 Tender-Commercial](./tender-commercial) | Bid Templates, Clause Analysis, BOM/BOQ | Profitability & Risk |
 | [📁 Technical-Operations](./technical-ops) | Maintenance Guides & Medical Gas SOPs | Operational Reliability |
 | [📁 FM-SOP-Master](./Mechanical-FM-SOP) | Lifecycle Mgmt & Facility Frameworks | Asset Longevity |
