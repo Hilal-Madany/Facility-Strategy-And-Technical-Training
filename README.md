@@ -1,4 +1,4 @@
-# 🏢 Integrated Facility Strategy & Techno-Commercial Framework
+# 🏢 Global Solutions Hub:-Integrated Facility Strategy & Techno-Commercial Framework
 ### *By Syed Hilaluddin Madany | 14+ Years of Mechanical Excellence*
 
 Welcome to my professional repository. I am a **Mechanical Engineer (B.Tech)** and **Techno-Commercial Specialist** based in Fatehpur, India. As the founder/leader at **Accumen Techno-Commercial**, I bridge the gap between heavy engineering, high-stakes industrial sales, and social impact.
