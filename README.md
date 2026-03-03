@@ -1,67 +1,66 @@
-# 🏢 Global Solutions Hub:-Integrated Facility Strategy & Techno-Commercial Framework
-### *By Syed Hilaluddin Madany | 14+ Years of Mechanical Excellence*
+# 🌍 Global Solutions Hub: Industrial Engineering & NGO Empowerment
+> **14+ Years India-Gulf Expertise | Techno-Commercial Leadership | Venture Catalyst**
 
-Welcome to my professional repository. I am a **Mechanical Engineer (B.Tech)** and **Techno-Commercial Specialist** based in Fatehpur, India. As the founder/leader at **Accumen Techno-Commercial**, I bridge the gap between heavy engineering, high-stakes industrial sales, and social impact.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Hilal-blue?logo=linkedin)](https://www.linkedin.com/in/syed-hilal/)
+[![NGO](https://img.shields.io/badge/NGO-M.M.F.%20Trust-green)](https://www.linkedin.com/company/m-m-f-trust/)
+[![Newsletter](https://img.shields.io/badge/Newsletter-Engineering%20Concepts-orange)](https://www.linkedin.com/newsletters/engineering-concepts-6890010523396882432/)
+[![Mission](https://img.shields.io/badge/Mission-%23NoToRacism-red)](#-iv-social-engineering--ngo-mmf-trust)
+
+Based in Fatehpur, India, I bridge the gap between heavy mechanical engineering (**Accumen Techno-Commercial**), high-stakes industrial sales, and grassroots social impact.
+
+---
+
+## 🏗️ The Engineering Vault: Systems & Standards
+*The "Digital Bible" for Manufacturing, Sizing, and Operational Success.*
+
+| Pillar | Application System | Core Standards | Approved Make-List (OEM) |
+| :--- | :--- | :--- | :--- |
+| **🏗️ Fabrication** | Structural Skids & Infrastructure | **IS 2062** / ASME IX | TATA, JSW, SAIL |
+| **🔥 Combustion** | **Wesman & Fives Stein Systems** | IS 1448 / ASME CSD-1 | Wesman, Fives Stein, Forbes Marshall |
+| **🛢️ Lubrication** | **Nortek & Shaanlube CLS** | ISO VG / DIN 51524 | Nortek, Shaanlube, SKF/Lincoln |
+| **🌬️ Filtration** | **Pall & Duplex Straining** | ISO 16890 / ISO 4406 | Pall, Hydac, Parker, Filpro |
+| **❄️ HVAC** | **Ind/Comm & Medical (OT/ER)** | ASHRAE 170 / SMACNA | Trane, Carrier, Blue Star, Zeco |
 
 
 
 ---
 
-## 🛠️ I. Technical Operations & O&M
-*Expertise in Building, Plant, and Healthcare Mechanical Systems.*
+## 💼 II. Techno-Commercial & Tender Management
+*The Commercial Engine: Bridging Engineering Precision with Project Profitability.*
 
-* **PPM & Lifecycle Management:** 14 years of field-tested SOPs for HVAC (AHU/VRF), Combustion System, Filtration, Lubrication, Pipeline Gas System for building/plants and Water Treatment.
-* **Healthcare Mechanical Specialist:** Expertise in Medical Gas Pipeline Systems (MGPS), Pressure Gradient Control for OTs/ICUs.
-* **Engineering Blogs:** I regularly share deep-dives into mechanical systems through my [Engineering Concepts Newsletter](https://www.linkedin.com/newsletters/engineering-concepts-6890010523396882432/).
-
----
-
-## 💼 II. Industrial Sales & Tender Management
-*The Commercial Engine: From Presales to Execution.*
-
-* **Tender Management:** Navigating both Government (CPWD/PWD/PSU) and Private sector bid cycles.
-* **Costing & Presales:** BOQ preparation, margin analysis, and technical-commercial compliance.
-* **Legal & Contractual Clauses:** Expert management of **LD (Liquidated Damages)**, **PVC (Price Variation Clauses)**, and **PBG (Performance Guarantees)**.
-* **After-Sales Operation:** Converting handovers into long-term, high-margin O&M and AMC contracts.
-
-
+* **BOM to BOQ Transition:** Expertly converting technical part lists (Burners, VFDs, Steel Tonnage) into quantified, commercially viable tender documents.
+* **Tender Management:** Navigating CPWD/PWD/PSU and Private sector bid cycles with a **60%+ success rate**.
+* **Contractual Strategy:** Expert management of **LD (Liquidated Damages)**, **PVC (Price Variation Clauses)**, and **PBG (Performance Guarantees)**.
 
 ---
 
-## 🤖 III. Digital Transformation & Web Innovation
-*Modernizing the Mechanical Industry through Technology.*
+## 🤝 III. Social Engineering & NGO (M.M.F. Trust)
+*Engineering for a better society. #NoToRacism*
 
-* **Digital Marketing:** Using SEO and LinkedIn branding to drive B2B industrial sales.
-* **AI & Web Tech:** Implementing data-driven maintenance models and web-based performance dashboards for real-time facility tracking.
-* **Documentation-as-Code:** Utilizing Git to ensure technical SOPs remain version-controlled and accessible to teams globally.
-
----
-
-## 🤝 IV. Social Engineering & NGO (M.M.F. Trust)
-*Engineering for a better society.*
-
-Through the **[M.M.F. Trust](https://www.linkedin.com/company/m-m-f-trust/)**, I am dedicated to:
-* **Vocational Training:** Upskilling underprivileged youth in mechanical and electrical trades.
-* **Sustainability:** Consulting on low-cost, efficient mechanical infrastructure for rural development.
+Through the **[M.M.F. Trust](https://www.linkedin.com/company/m-m-f-trust/)**, we empower the BPL (Below Poverty Line) community:
+* **Vocational Training:** Upskilling underprivileged youth in Mechanical/Electrical trades.
+* **Career Blueprints:** A "Fatehpur-to-Gulf" roadmap for junior engineers to achieve global roles.
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Navigation (Direct Links)
 
 | Folder | Contents | Strategic Value |
 | :--- | :--- | :--- |
-| `📁 /technical-ops` | PPM Logs, SOPs, Healthcare Mechanical Guides | Operational Reliability |
-| `📁 /tender-commercial` | Bid Templates, Clause Analysis, Sales Workflows | Profitability & Risk |
-| `📁 /digital-assets` | AI Scripts, Web Dashboard Code, Blog Drafts | Efficiency & Authority |
-| `📁 /mmf-trust-ngo` | Training Modules, CSR Proposals | Social Impact & Brand |
+| [📁 /07-Mechanical-Core-Vault](./07-Mechanical-Core-Vault) | **Technical Bible: Lube, Filtration, Fab, Combustion** | Core Engineering Depth |
+| [📁 /tender-commercial](./tender-commercial) | Bid Templates, Clause Analysis, BOM/BOQ | Profitability & Risk |
+| [📁 /technical-ops](./technical-ops) | Maintenance Guides & Technical SOPs | Operational Reliability |
+| [📁 /Mechanical-FM-SOP](./Mechanical-FM-SOP) | Lifecycle Mgmt & Facility Frameworks | Asset Longevity |
+| [📁 /mmf-trust-ngo](./mmf-trust-ngo) | Technical Career Guidance Roadmaps | Social Mobility |
+| [📁 /Community-Impact](./Community-Impact) | #NoToRacism Mission & Social Strategy | Shared Value |
+| [📁 /digital-assets](./digital-assets) | Scripts, Dashboards & Visual Assets | Efficiency |
 
 ---
 
 ## 📈 Connect With Me
 * **Company:** [Accumen Techno-Commercial](http://www.accumentechno.com)
 * **LinkedIn:** [Syed Hilal](https://www.linkedin.com/in/syed-hilal/)
-* **Email:** [syed.madany86@gmail.com](mailto:syed.madany86@gmail.com)
-* **Phone:** +91 9650329719
+* **Email:** [syed.madany86@gmail.com](mailto:syed.madany86@gmail.com) | **Phone:** +91 96503 29719
 * **Location:** Fatehpur, Uttar Pradesh, India
 
 ---
