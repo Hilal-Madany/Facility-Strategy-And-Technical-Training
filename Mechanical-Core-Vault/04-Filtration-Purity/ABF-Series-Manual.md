@@ -1,4 +1,4 @@
-# 🌊 Industrial Auto Backwash Filter (ABF) - Master SOP
+# 🌊 Industrial Automatic Self-Cleaning Filter (ASCF) - Master SOP
 > **Project Division:** Fluid Handling & Filtration | **Author:** Syed Hilaluddin Madany
 > **Standard:** MMF-2026-ABF-V1 | **Status:** [RELEASED]
 ---
@@ -6,7 +6,7 @@
 ## 🏗️ 1. System Anatomy
 
 
-An ASCF is defined as a high-efficiency filtration system that maintains a constant flow rate by cleaning its own element while the process is still running. Unlike manual filters, it does not require a "Standby" unit because it never needs to be opened for cleaning.Core Operational Principles:The "Barrier" 
+An ASCF (Automatic Self-Cleaning Filter) is defined as a high-efficiency filtration system that maintains a constant flow rate by cleaning its own element while the process is still running. Unlike manual filters, it does not require a "Standby" unit because it never needs to be opened for cleaning.Core Operational Principles:The "Barrier" 
 
 Principle: The liquid enters a cylindrical stainless steel Wedge Wire element. Solids are trapped on the inner surface.The "Sensing" Principle: The system remains in "Filtration Mode" until the debris layer causes the Differential Pressure ($DP$) to rise.The "Purge" Principle: Once the $DP$ threshold is reached ($0.5$ kg/cm²), the Scanner Motor and Drain Valve activate. The system uses a "Vacuum Effect" to pull a small amount of clean water backward through the mesh to flush the dirt out.
 
@@ -15,7 +15,7 @@ Principle: The liquid enters a cylindrical stainless steel Wedge Wire element. S
 
 ---
 
-## 🖼️ 2. Technical Illustrations
+## 🖼️Technical Illustrations
 
 <p align="center">
   <img src="ascf_concept.jpg" width="600" alt="ASCF Overall Anatomy">
@@ -26,12 +26,13 @@ Principle: The liquid enters a cylindrical stainless steel Wedge Wire element. S
 <br>
 
 <p align="center">
-  <img src="ascf_ascf_1.jpg" width="600" alt="ASCF Internal Detail">
+  <img src="ascf_concept_1.jpg" width="600" alt="ASCF Internal Detail">
   <br>
   <em><b>Figure 2:</b> Close-up of Internal Scanner and Wedge Wire Element.</em>
   <br>
-  <sup style="color: gray;">*Note: Illustrations for conceptual visualization only.*</sup>
 </p>
+
+---
 
 ---
 
