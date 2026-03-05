@@ -94,11 +94,15 @@ elif st.session_state.step == 7:
     colb.button("⬅️ Back", on_click=prev_step)
     coln.button("Save & Next ➡️", on_click=next_step)
 
-# --- STEP 8: FINAL PREVIEW ---
+# --- STEP 8: FINAL PREVIEW & PRINT ---
 elif st.session_state.step == 8:
     st.header("8. Final Review & One-Page Print")
     
-    # Calculate Score
+    # 1. Show a Quick Summary Table (Visible in App)
+    st.subheader("Data Verification")
+    st.table(st.session_state.data)
+
+    # 2. Calculate Final Score
     score = 0
     if st.session_state.data.get('iso9001') == "Yes": score += 25
     if st.session_state.data.get('inhouse_test') == "Yes": score += 25
@@ -106,6 +110,7 @@ elif st.session_state.step == 8:
     if st.session_state.data.get('turnover_3', 0) > 1.5: score += 25
     st.session_state.data['score'] = score
 
+    # 3. Generate the "Perfect Format" HTML
     try:
         template = env.get_template('full_report.html')
         report_html = template.render(
@@ -113,12 +118,22 @@ elif st.session_state.step == 8:
             date=datetime.date.today().strftime("%d/%m/%Y")
         )
         
-        # We use a large height (1500) so the user can see the whole form
-        st.components.v1.html(report_html, height=1200, scrolling=True)
+        # 4. Display Print Window
+        st.divider()
+        st.markdown("### 🖨️ Official Document Preview")
         
-        st.warning("⚠️ **Note:** When the print window opens, set **'Layout' to 'Portrait'** and **'Margins' to 'Minimum'** to ensure it fits on one page.")
+        # Use a full-width container for the print preview
+        st.components.v1.html(report_html, height=1100, scrolling=False)
         
-        if st.button("⬅️ Back to Edit"): st.session_state.step = 1
+        # 5. Footer Navigation
+        col_back, col_reset = st.columns(2)
+        with col_back:
+            if st.button("⬅️ Edit Details"): st.session_state.step = 1
+        with col_reset:
+            if st.button("🔄 Start New Assessment"): 
+                st.session_state.data = {}
+                st.session_state.step = 1
+                st.rerun()
 
     except Exception as e:
-        st.error(f"Template Error: {e}")
+        st.error(f"Template Search Error: {e}")
